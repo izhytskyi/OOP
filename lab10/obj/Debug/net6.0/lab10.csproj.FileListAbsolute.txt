@@ -1,0 +1,15 @@
+C:\Users\izhyt\source\repos\oop\lab10\bin\Debug\net6.0\lab10.exe
+C:\Users\izhyt\source\repos\oop\lab10\bin\Debug\net6.0\lab10.deps.json
+C:\Users\izhyt\source\repos\oop\lab10\bin\Debug\net6.0\lab10.runtimeconfig.json
+C:\Users\izhyt\source\repos\oop\lab10\bin\Debug\net6.0\lab10.dll
+C:\Users\izhyt\source\repos\oop\lab10\bin\Debug\net6.0\lab10.pdb
+C:\Users\izhyt\source\repos\oop\lab10\obj\Debug\net6.0\lab10.csproj.AssemblyReference.cache
+C:\Users\izhyt\source\repos\oop\lab10\obj\Debug\net6.0\lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izhyt\source\repos\oop\lab10\obj\Debug\net6.0\lab10.AssemblyInfoInputs.cache
+C:\Users\izhyt\source\repos\oop\lab10\obj\Debug\net6.0\lab10.AssemblyInfo.cs
+C:\Users\izhyt\source\repos\oop\lab10\obj\Debug\net6.0\lab10.csproj.CoreCompileInputs.cache
+C:\Users\izhyt\source\repos\oop\lab10\obj\Debug\net6.0\lab10.dll
+C:\Users\izhyt\source\repos\oop\lab10\obj\Debug\net6.0\refint\lab10.dll
+C:\Users\izhyt\source\repos\oop\lab10\obj\Debug\net6.0\lab10.pdb
+C:\Users\izhyt\source\repos\oop\lab10\obj\Debug\net6.0\lab10.genruntimeconfig.cache
+C:\Users\izhyt\source\repos\oop\lab10\obj\Debug\net6.0\ref\lab10.dll
