@@ -1,0 +1,15 @@
+C:\Users\izhyt\source\repos\oop\lab09\lab0905\bin\Debug\net6.0\lab0905.exe
+C:\Users\izhyt\source\repos\oop\lab09\lab0905\bin\Debug\net6.0\lab0905.deps.json
+C:\Users\izhyt\source\repos\oop\lab09\lab0905\bin\Debug\net6.0\lab0905.runtimeconfig.json
+C:\Users\izhyt\source\repos\oop\lab09\lab0905\bin\Debug\net6.0\lab0905.dll
+C:\Users\izhyt\source\repos\oop\lab09\lab0905\bin\Debug\net6.0\lab0905.pdb
+C:\Users\izhyt\source\repos\oop\lab09\lab0905\obj\Debug\net6.0\lab0905.csproj.AssemblyReference.cache
+C:\Users\izhyt\source\repos\oop\lab09\lab0905\obj\Debug\net6.0\lab0905.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izhyt\source\repos\oop\lab09\lab0905\obj\Debug\net6.0\lab0905.AssemblyInfoInputs.cache
+C:\Users\izhyt\source\repos\oop\lab09\lab0905\obj\Debug\net6.0\lab0905.AssemblyInfo.cs
+C:\Users\izhyt\source\repos\oop\lab09\lab0905\obj\Debug\net6.0\lab0905.csproj.CoreCompileInputs.cache
+C:\Users\izhyt\source\repos\oop\lab09\lab0905\obj\Debug\net6.0\lab0905.dll
+C:\Users\izhyt\source\repos\oop\lab09\lab0905\obj\Debug\net6.0\refint\lab0905.dll
+C:\Users\izhyt\source\repos\oop\lab09\lab0905\obj\Debug\net6.0\lab0905.pdb
+C:\Users\izhyt\source\repos\oop\lab09\lab0905\obj\Debug\net6.0\lab0905.genruntimeconfig.cache
+C:\Users\izhyt\source\repos\oop\lab09\lab0905\obj\Debug\net6.0\ref\lab0905.dll
