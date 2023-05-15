@@ -1,0 +1,15 @@
+C:\Users\izhyt\source\repos\oop\lab11\lab1101\bin\Debug\net6.0\lab1101.exe
+C:\Users\izhyt\source\repos\oop\lab11\lab1101\bin\Debug\net6.0\lab1101.deps.json
+C:\Users\izhyt\source\repos\oop\lab11\lab1101\bin\Debug\net6.0\lab1101.runtimeconfig.json
+C:\Users\izhyt\source\repos\oop\lab11\lab1101\bin\Debug\net6.0\lab1101.dll
+C:\Users\izhyt\source\repos\oop\lab11\lab1101\bin\Debug\net6.0\lab1101.pdb
+C:\Users\izhyt\source\repos\oop\lab11\lab1101\obj\Debug\net6.0\lab1101.csproj.AssemblyReference.cache
+C:\Users\izhyt\source\repos\oop\lab11\lab1101\obj\Debug\net6.0\lab1101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izhyt\source\repos\oop\lab11\lab1101\obj\Debug\net6.0\lab1101.AssemblyInfoInputs.cache
+C:\Users\izhyt\source\repos\oop\lab11\lab1101\obj\Debug\net6.0\lab1101.AssemblyInfo.cs
+C:\Users\izhyt\source\repos\oop\lab11\lab1101\obj\Debug\net6.0\lab1101.csproj.CoreCompileInputs.cache
+C:\Users\izhyt\source\repos\oop\lab11\lab1101\obj\Debug\net6.0\lab1101.dll
+C:\Users\izhyt\source\repos\oop\lab11\lab1101\obj\Debug\net6.0\refint\lab1101.dll
+C:\Users\izhyt\source\repos\oop\lab11\lab1101\obj\Debug\net6.0\lab1101.pdb
+C:\Users\izhyt\source\repos\oop\lab11\lab1101\obj\Debug\net6.0\lab1101.genruntimeconfig.cache
+C:\Users\izhyt\source\repos\oop\lab11\lab1101\obj\Debug\net6.0\ref\lab1101.dll

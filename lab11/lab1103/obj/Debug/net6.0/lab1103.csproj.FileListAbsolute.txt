@@ -1,0 +1,15 @@
+C:\Users\izhyt\source\repos\oop\lab11\lab1103\bin\Debug\net6.0\lab1103.exe
+C:\Users\izhyt\source\repos\oop\lab11\lab1103\bin\Debug\net6.0\lab1103.deps.json
+C:\Users\izhyt\source\repos\oop\lab11\lab1103\bin\Debug\net6.0\lab1103.runtimeconfig.json
+C:\Users\izhyt\source\repos\oop\lab11\lab1103\bin\Debug\net6.0\lab1103.dll
+C:\Users\izhyt\source\repos\oop\lab11\lab1103\bin\Debug\net6.0\lab1103.pdb
+C:\Users\izhyt\source\repos\oop\lab11\lab1103\obj\Debug\net6.0\lab1103.csproj.AssemblyReference.cache
+C:\Users\izhyt\source\repos\oop\lab11\lab1103\obj\Debug\net6.0\lab1103.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izhyt\source\repos\oop\lab11\lab1103\obj\Debug\net6.0\lab1103.AssemblyInfoInputs.cache
+C:\Users\izhyt\source\repos\oop\lab11\lab1103\obj\Debug\net6.0\lab1103.AssemblyInfo.cs
+C:\Users\izhyt\source\repos\oop\lab11\lab1103\obj\Debug\net6.0\lab1103.csproj.CoreCompileInputs.cache
+C:\Users\izhyt\source\repos\oop\lab11\lab1103\obj\Debug\net6.0\lab1103.dll
+C:\Users\izhyt\source\repos\oop\lab11\lab1103\obj\Debug\net6.0\refint\lab1103.dll
+C:\Users\izhyt\source\repos\oop\lab11\lab1103\obj\Debug\net6.0\lab1103.pdb
+C:\Users\izhyt\source\repos\oop\lab11\lab1103\obj\Debug\net6.0\lab1103.genruntimeconfig.cache
+C:\Users\izhyt\source\repos\oop\lab11\lab1103\obj\Debug\net6.0\ref\lab1103.dll
